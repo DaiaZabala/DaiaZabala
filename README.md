@@ -7,7 +7,7 @@
   </div>
 
 </div>
-  <br>
+<br>
 
 🎓 Estudiante de **Licenciatura en Sistemas de Información** en la Universidad Nacional del Nordeste (UNNE).
 
