@@ -1,4 +1,4 @@
-<img width="5%" align="right" alt="Stitch saludando" src="icegif-5881.gif" />
+<img width="5%" align="right" alt="Stitch saludando" src="animation.gif" />
  
 ### 🌐 Languages
 - [English](README_EN.md)
