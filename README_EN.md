@@ -47,9 +47,9 @@
 ### 📫 Contact
 
 - 📧 daiana.azabala@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/daiana-antonella-zabala)  
-- 🧠 [GitHub](https://github.com/DaiaZabala)  
-- 🌐 [Online Portfolio](https://portfoliozabala.netlify.app/)
+- 💼 [LinkedIn]'(https://www.linkedin.com/in/daiana-antonella-zabala)'  
+- 🧠 [GitHub]'(https://github.com/DaiaZabala)'
+- 🌐 [OnlinePortfolio]'(https://portfoliozabala.netlify.app/)'
 
 ---
 
