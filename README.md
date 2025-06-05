@@ -1,17 +1,11 @@
-<table>
-  <tr>
-    <td valign="middle">
+<div style="display: flex; justify-content: center; align-items: center; position: relative;">
+  <h1 style="text-align: center; border-bottom: none; text-decoration: none; box-shadow: none;">
+    👋 ¡Hola! Soy Daiana Antonella Zabala
+  </h1>
+  <img src="icegif-5881.gif" width="50" alt="Stitch Gif" style="position: absolute; right: 0;" />
+</div>
 
-<h1>👋 ¡Hola! Soy Daiana Antonella Zabala</h1>
-
-    </td>
-    <td valign="middle" width="160">
-
-      <img src="./DaiaZabala/icegif-588.gif" width="150" alt="Stitch Gif"/>
-
-    </td>
-  </tr>
-</table>
+<br>
 
 🎓 Estudiante de **Licenciatura en Sistemas de Información** en la Universidad Nacional del Nordeste (UNNE).
 
@@ -40,31 +34,22 @@
 
 ### 💼 Experiencia
 
-- 🖥️ **Compunea – Corrientes (2018–2019)**  
-  Reparación y mantenimiento de PCs, atención al público y soporte técnico.
+- 🖥️ **Compunea – Corrientes (2018–2019)**: <br>
+Reparación y mantenimiento de PCs, atención al público y soporte técnico.
+- 💡 **Emprendedora – Sujeta Barbijos (2020–2022)**: <br>Diseño, venta y gestión de productos en ferias y redes sociales.
+- 🏛️ **Pasantía – Ministerio de Gobierno (2012)**: <br>Tareas administrativas durante 30 días hábiles.
 
-- 💡 **Emprendedora – Sujeta Barbijos (2020–2022)**  
-  Diseño, venta y gestión de productos en ferias y redes sociales.
-
-- 🏛️ **Pasantía – Ministerio de Gobierno (2012)**  
-  Tareas administrativas durante 30 días hábiles.
-
----
 
 ### 🌎 Idiomas
-
-- Inglés: Básico (actualmente estudiando en Instituto Josefina Contte)  
-- Guaraní: Nivel básico (cursado en Universidad de la Cuenca del Plata)  
-
+-  **Ingés**: Básico (actualmente estudiando en Instituto Josefina Contte)  
 ---
 
 ### 📫 Contacto
 
 - 📧 daiana.azabala@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/daiana-antonella-zabala)  
-- 🧠 [GitHub](https://github.com/DaiaZabala)  
-- 🌐 [Portfolio Online](https://portfoliozabala.netlify.app/)
-
+- 💼 LinkedIn: https://www.linkedin.com/in/daiana-antonella-zabala  
+- 🧠 GitHub: https://github.com/DaiaZabala  
+- 🌐 Portfolio Online: https://portfoliozabala.netlify.app/
 ---
 
 > _"Responsable, proactiva y siempre dispuesta a seguir aprendiendo."_  
