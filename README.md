@@ -1,6 +1,6 @@
-<h1 align="center" style="display: flex; justify-content: space-between; align-items: center; max-width: 800px; margin: auto;">
-  <span>👋 ¡Hola! Soy Daiana Antonella Zabala</span><img src="icegif-5881.gif" width="60" alt="Stitch saludando" />
-</h1>
+<img width="5%" align="right" alt="Stitch saludando" src="icegif-5881.gif" />
+<h1 align="center">👋 ¡Hola! Soy Daiana Antonella Zabala</h1>
+
 
 🎓 Estudiante de **Licenciatura en Sistemas de Información** en la Universidad Nacional del Nordeste (UNNE).
 
