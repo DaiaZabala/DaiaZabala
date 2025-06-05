@@ -1,9 +1,11 @@
-<div style="display: flex; justify-content: center; align-items: center; position: relative;">
-  <h1 style="margin: 0; text-align: center; width: 100%; text-decoration: none; border: none; box-shadow: none;">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <div style="flex: 1;"></div>
+  <h1 style="margin: 0; text-align: center; flex: 0 1 auto;">
     👋 ¡Hola! Soy Daiana Antonella Zabala
   </h1>
-  <img src="icegif-5881.gif" width="50" alt="Stitch Gif" style="position: absolute; right: 0;" />
+  <img src="icegif-5881.gif" width="50" alt="Stitch Gif" style="flex: 1; text-align: right;" />
 </div>
+<br>
 <br>
 
 
