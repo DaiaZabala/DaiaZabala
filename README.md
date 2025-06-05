@@ -1,6 +1,8 @@
-![Stitch](./DaiaZabala/icegif-588.gif)
+![Stitch]( /icegif-588.gif)
 
-# 👋 ¡Hola! Soy Daiana Antonella Zabala
+<p align="center">
+  # 👋 ¡Hola! Soy Daiana Antonella Zabala
+</p>
 
 🎓 Estudiante de **Licenciatura en Sistemas de Información** en la Universidad Nacional del Nordeste (UNNE).
 
@@ -8,17 +10,12 @@
 
 ---
 
-### 📚 Formación Técnica
+### 📚 Formación Técnica más reciente
 
 - **Curso Web Designer (UX - Segunda Etapa)** – Folcademy / Municipalidad de Corrientes (Programa Muni IT)  
 - **Node.js Developer** – Digitalers / Telecom  
 - **Programación Full Stack Python** – Codo a Codo 2024  
 - **Desarrollo Frontend y Backend (Laravel + Vue.js)** – TELCO y UNNE (2023–2024)  
-- **Argentina Programa 4.0** – Etapa "Sé Programar"  
-- **Professional Testing Master** – UTN Buenos Aires  
-- **Diseño Gráfico Digital** – UTN Resistencia  
-- **Cursos Microsoft Office** – Word, Excel y PowerPoint (UTN)  
-
 ---
 
 ### 🛠️ Tecnologías que uso
