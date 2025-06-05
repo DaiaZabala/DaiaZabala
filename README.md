@@ -1,7 +1,6 @@
-<div align="center" style="font-size: 2rem; font-weight: bold; display: flex; justify-content: space-between; align-items: center; max-width: 700px; margin: auto;">
-  <div>👋 ¡Hola! Soy Daiana Antonella Zabala</div>
-  <img src="icegif-5881.gif" width="60" alt="Stitch saludando" />
-</div>
+<h1 align="center" style="display: flex; justify-content: space-between; align-items: center; max-width: 800px; margin: auto;">
+  <span>👋 ¡Hola! Soy Daiana Antonella Zabala</span><img src="icegif-5881.gif" width="60" alt="Stitch saludando" />
+</h1>
 
 🎓 Estudiante de **Licenciatura en Sistemas de Información** en la Universidad Nacional del Nordeste (UNNE).
 
@@ -15,6 +14,7 @@
 - **Node.js Developer** – Digitalers / Telecom  
 - **Programación Full Stack Python** – Codo a Codo 2024  
 - **Desarrollo Frontend y Backend (Laravel + Vue.js)** – TELCO y UNNE (2023–2024)  
+
 ---
 
 ### 🛠️ Tecnologías que uso
@@ -30,22 +30,28 @@
 
 ### 💼 Experiencia
 
-- 🖥️ **Compunea – Corrientes (2018–2019)**: <br>
-Reparación y mantenimiento de PCs, atención al público y soporte técnico.
-- 💡 **Emprendedora – Sujeta Barbijos (2020–2022)**: <br>Diseño, venta y gestión de productos en ferias y redes sociales.
-- 🏛️ **Pasantía – Ministerio de Gobierno (2012)**: <br>Tareas administrativas durante 30 días hábiles.
+- 🖥️ **Compunea – Corrientes (2018–2019)**:  
+  Reparación y mantenimiento de PCs, atención al público y soporte técnico.
+- 💡 **Emprendedora – Sujeta Barbijos (2020–2022)**:  
+  Diseño, venta y gestión de productos en ferias y redes sociales.
+- 🏛️ **Pasantía – Ministerio de Gobierno (2012)**:  
+  Tareas administrativas durante 30 días hábiles.
 
+---
 
 ### 🌎 Idiomas
--  **Ingés**: Básico (actualmente estudiando en Instituto Josefina Contte)  
+
+- **Inglés**: Básico (actualmente estudiando en Instituto Josefina Contte)
+
 ---
 
 ### 📫 Contacto
 
 - 📧 daiana.azabala@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/daiana-antonella-zabala  
-- 🧠 GitHub: https://github.com/DaiaZabala  
-- 🌐 Portfolio Online: https://portfoliozabala.netlify.app/
+- 💼 [LinkedIn](https://www.linkedin.com/in/daiana-antonella-zabala)  
+- 🧠 [GitHub](https://github.com/DaiaZabala)  
+- 🌐 [Portfolio Online](https://portfoliozabala.netlify.app/)
+
 ---
 
 > _"Responsable, proactiva y siempre dispuesta a seguir aprendiendo."_  
