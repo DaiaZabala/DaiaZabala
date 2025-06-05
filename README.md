@@ -1,13 +1,14 @@
-<table width="100%">
+<table align="center" width="100%" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
   <tr>
-    <td align="left" width="90%" style="font-size: 3.5rem; font-weight: bold;">
+    <td align="left" width="90%" style="font-size: 3.5rem; font-weight: bold; border: none; padding: 0;">
       👋 ¡Hola! Soy Daiana Antonella Zabala
     </td>
-    <td align="right" width="10%">
+    <td align="right" width="10%" style="border: none; padding: 0;">
       <img src="icegif-5881.gif" width="60" alt="Stitch saludando" />
     </td>
   </tr>
 </table>
+
 
 
 
