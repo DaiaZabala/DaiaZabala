@@ -1,11 +1,8 @@
-<div style="display: flex; justify-content: center; align-items: center; position: relative;">
-  <h1 style="margin: 0; text-align: center; width: 100%; text-decoration: none; border: none; box-shadow: none;">
-    👋 ¡Hola! Soy Daiana Antonella Zabala
-  </h1>
-  <img src="icegif-5881.gif" width="50" alt="Stitch Gif" style="position: absolute; right: 0;" />
-</div>
+<p align="center">
+  <span style="font-size: 24px;">👋 ¡Hola! Soy Daiana Antonella Zabala</span>
+  <img src="icegif-5881.gif" width="40" alt="Stitch Gif" align="right" />
+</p>
 <br>
-
 
 🎓 Estudiante de **Licenciatura en Sistemas de Información** en la Universidad Nacional del Nordeste (UNNE).
 
