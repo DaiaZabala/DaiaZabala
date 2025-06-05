@@ -54,5 +54,12 @@
 
 ---
 
+### 🌐 Versiones / Languages
+
+- 🇪🇸 [Español](README.md)  
+- 🇬🇧 [English](README_EN.md)
+
+---
+
 > _"Responsable, proactiva y siempre dispuesta a seguir aprendiendo."_  
 > Gracias por visitar mi perfil 😊
