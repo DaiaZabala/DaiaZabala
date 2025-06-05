@@ -1,4 +1,4 @@
-<img width="5%" align="right" alt="Stitch waving" src="icegif-5881.gif" />
+<img width="5%" align="right" alt="Stitch waving" src="animation.gif" />
 <h1 align="center">👋 Hello! I'm Daiana Antonella Zabala</h1>
 
 🎓 Student of **Bachelor's Degree in Information Systems** at the National University of the Northeast (UNNE).
