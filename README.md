@@ -1,8 +1,17 @@
-![Stitch]( /icegif-588.gif)
+<table>
+  <tr>
+    <td valign="middle">
 
-<p align="center">
-  # 👋 ¡Hola! Soy Daiana Antonella Zabala
-</p>
+<h1>👋 ¡Hola! Soy Daiana Antonella Zabala</h1>
+
+    </td>
+    <td valign="middle" width="160">
+
+      <img src="./DaiaZabala/icegif-588.gif" width="150" alt="Stitch Gif"/>
+
+    </td>
+  </tr>
+</table>
 
 🎓 Estudiante de **Licenciatura en Sistemas de Información** en la Universidad Nacional del Nordeste (UNNE).
 
