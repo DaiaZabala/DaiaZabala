@@ -1,4 +1,9 @@
 <img width="5%" align="right" alt="Stitch saludando" src="icegif-5881.gif" />
+ 
+### 🌐 Versiones / Languages
+- 🇪🇸 [Español](README.md)  
+- 🇬🇧 [English](README_EN.md)
+
 <h1 align="center">👋 ¡Hola! Soy Daiana Antonella Zabala</h1>
 
 
@@ -53,13 +58,6 @@
 - 🌐 [PortfolioOnline]'(https://portfoliozabala.netlify.app/)'
 
 ---
-
-### 🌐 Versiones / Languages
-
-- 🇪🇸 [Español](README.md)  
-- 🇬🇧 [English](README_EN.md)
-
--
 
 > _"Responsable, proactiva y siempre dispuesta a seguir aprendiendo."_  
 > Gracias por visitar mi perfil 😊
