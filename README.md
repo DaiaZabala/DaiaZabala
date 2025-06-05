@@ -1,7 +1,6 @@
 <img width="5%" align="right" alt="Stitch saludando" src="icegif-5881.gif" />
  
-### 🌐 Versiones / Languages
-- 🇪🇸 [Español](README.md)  
+### 🌐 Languages
 - 🇬🇧 [English](README_EN.md)
 
 <h1 align="center">👋 ¡Hola! Soy Daiana Antonella Zabala</h1>
