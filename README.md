@@ -14,8 +14,8 @@
 
 ### 📚 Formación Técnica más reciente
 
-- **Curso Web Designer (UX - Segunda Etapa)** – Folcademy / Municipalidad de Corrientes (Programa Muni IT)  
-- **Node.js Developer** – Digitalers / Telecom  
+- **Curso Web Designer (UX - Segunda Etapa)** – Folcademy / Municipalidad de Corrientes (Programa Muni IT)-2025
+- **Node.js Developer** – Digitalers / Telecom - 2025
 - **Programación Full Stack Python** – Codo a Codo 2024  
 - **Desarrollo Frontend y Backend (Laravel + Vue.js)** – TELCO y UNNE (2023–2024)  
 
