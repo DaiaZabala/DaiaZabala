@@ -6,9 +6,16 @@
 <h1 align="center">👋 ¡Hola! Soy Daiana Antonella Zabala</h1>
 
 
-🎓 Estudiante de **Licenciatura en Sistemas de Información** en la Universidad Nacional del Nordeste (UNNE).
+🎓 Estudiante de la **Licenciatura en Sistemas de Información** (UNNE) y del **Profesorado de Educación Secundaria en Informática** (ISFD Juan Pujol).
 
 💻 Me especializo en desarrollo web y móvil, con conocimientos en HTML, CSS, JavaScript, C++, Laravel, y más. Me apasiona crear proyectos prácticos y aprender nuevas tecnologías.
+
+---
+
+### 🌱 Actualmente enfocada en:
+
+- 🎓 Formación Docente – Profesorado en Informática (ISFD Juan Pujol).
+- 🗣️ Inglés – Instituto Superior Josefina Contte (2° año).
 
 ---
 
@@ -21,19 +28,27 @@
 
 ---
 
-### 🛠️ Tecnologías que uso
+### 🛠️ Tecnologías y Herramientas
 
+**Frontend:**  
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![Desarrollador Full-Stack](https://img.shields.io/badge/Desarrollador%20Full--Stack-339933?style=flat&logo=visual-studio-code&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A5?style=flat&logo=mysql&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+
+**Backend y Bases de Datos:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A5?style=flat&logo=mysql&logoColor=white)
+
+**Herramientas y Diseño:**  
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ---
 
 ### 💼 Experiencia
@@ -49,16 +64,16 @@
 
 ### 🌎 Idiomas
 
-- **Inglés**: Básico (actualmente estudiando en Instituto Josefina Contte)
+- **Inglés**: Básico (cursando 2° año en el Instituto Josefina Contte).
 
 ---
 
 ### 📫 Contacto
 
 - 📧 daiana.azabala@gmail.com  
-- 💼 [LinkedIn]'(https://www.linkedin.com/in/daiana-antonella-zabala)' 
-- 🧠 [GitHub]'(https://github.com/DaiaZabala)'  
-- 🌐 [PortfolioOnline]'(https://portfoliozabala.netlify.app/)'
+- 💼 [LinkedIn](https://www.linkedin.com/in/daiana-antonella-zabala) 
+- 🧠 [GitHub](https://github.com/DaiaZabala)  
+- 🌐 [PortfolioOnline](https://portfoliozabala.netlify.app/)
 
 ---
 
